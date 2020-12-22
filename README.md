@@ -7,6 +7,7 @@ In it user can enter manual measurements if he/she wants (EnterManual Activity) 
 2. They can draw a customized design of their shirt and than trouser separately (Draw DrawwDesign and DrawDesign2 activity)
 3. They can ask for recommendations ( The model to be trained in next iteration) 
 Finally they can view their report of design and measurements in the report.
+
 The button to record and video and get 3d measurements from a 2d video is given in main activity which when pressed asks for height,bodytype (mentioned in iteration 2) and gender and saves the video made made in the way the sample video is made in iteration 2 and then the video is passed to model made in iteration 2 for measurement extraction.
 # Iteration 2:
 you need to run the all the tabs of the jupyter notebook.
