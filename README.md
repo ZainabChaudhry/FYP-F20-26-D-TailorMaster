@@ -1,14 +1,14 @@
 # FYP-F20-26-D-TailorMaster
 An android application that will help you get your customized design and anthropometric measurements from a 2D video of the user
-#Iteration 2:
+# Iteration 2:
 you need to run the all the tabs of the jupyter notebook.
 # the mymain() function
 is the main function that calls above all functions when required.
 the mymain function first asks for the height of the user, then asks whether he is slim, normal, healthy or bulky
-*Slim means that the chest of the person is much larger than his/her waist like 3 or more than 3 inches larger 
-*Normal means that the chest of the person is slightly more than their waist .
-*Healthy means that the chest of the person is slightly smaller than their waist.
-*Bulky is someone whose chest is more than their normal height and much less than their waist.
+Slim means that the chest of the person is much larger than his/her waist like 3 or more than 3 inches larger
+Normal means that the chest of the person is slightly more than their waist .
+Healthy means that the chest of the person is slightly smaller than their waist.
+Bulky is someone whose chest is more than their normal height and much less than their waist.
 
 Above mentioned are the 4 categories of Body types which the user will choose on the base of their assumptions.
 The last thing required before video is the gender as the body parts division of male are different from female.
