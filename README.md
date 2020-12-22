@@ -17,4 +17,4 @@ The path of video must be given that is saved in memory.
 The person must come straight in the camera frame wearing an atmost half sleeves tshirt that fits them and a tight pants or leggings so that main body parts e.g.knees, ankle, hipe,eyes,shoulders, wrists etc are visible and easily detectable.
 # Code explanation:
 The model used is mobileNet that is 7MB at total so that deployment can be easier and takes less space moreover the DNN(Deep neural network ) object detection API is used.
-The graph_opt.pb file is used for object detection and getting reference points of these body parts.
+The graph_opt.pb file is used for object detection and getting reference points of these body parts. TheposeDetector functions helps track the reference points and The getMeasurementsInPixels helps obtain the distance bertween points detected and ifnally the getOriginalMeasurements function helps get measurements in inches
