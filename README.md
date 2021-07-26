@@ -33,3 +33,11 @@ The graph_opt.pb file is used for object detection and getting reference points 
 you need to run all the tabs of the jupyter notebook as mentiooned in iteration 2
 The application is same as the one in iteration 1, the application is updated and enhanced in user experience and both the model and the application is connected.
 You need to download all the code on your PC both the model and the application and enter your PCs IPv4 in the android application code.
+The model has been connected to the application you only need to enter the IPv4.
+
+# Iteration 4:
+Another module by the name of Ask for Recommendations is added in which the user describes what kind of thing they want from internet and a web search accordingly is displayed from where the user can download their desired design and then upload in the application from the gallery.
+Moreover, a button of help is added in Recod Video which explains users what different body types mean.
+The Model is uploaded on a Microsoft Azure virtual machine with a static ip of 52.187.34.176 and given over here as well in case you want to run in on your machine.
+you need to run all the tabs of the jupyter notebook as mentiooned in iteration 2
+The application is same as the one in iteration 1, the application will run which its best possible accuracy from the model.
